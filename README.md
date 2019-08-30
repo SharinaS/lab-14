@@ -2,12 +2,12 @@
 Database Normalization Exercise
 
 # Timing
-Number and name of feature: ________________________________
+Number and name of feature: Normalizing a database
 
 Estimate of time needed to complete: 30 minutes
 
 Start time: 9:20am
 
-Finish time: _____
+Finish time: 10am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40 minutes
